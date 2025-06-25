@@ -6,10 +6,10 @@
 
 ## 輸入圖片/ 輸出結果
 
-[貓頭鷹](PIC/1.jpg)<br>
-[鑰匙](PIC/2.jpg)<br>
-[範例圖](PIC/3.jpg)<br>
-[石斑魚](PIC/4.jpg)<br>
+[貓頭鷹](PIC/1.png)<br>
+[鑰匙](PIC/2.png)<br>
+[範例圖](PIC/3.png)<br>
+[石斑魚](PIC/4.png)<br>
 
 ---
 
